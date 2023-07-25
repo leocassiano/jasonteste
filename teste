@@ -10,27 +10,27 @@
     },
     {
         "UserID": "1",
-        "FirstName": "Leonardo",
-        "Surname": "Cassiano",
+        "FirstName": "Lucas",
+        "Surname": "Santos",
         "PlayDesc": "Info desc",
-        "MaxGold": "532",
-        "Team": "Red"
+        "MaxGold": "20",
+        "Team": "Blue"
     },
     {
         "UserID": "2",
-        "FirstName": "Leonardo",
-        "Surname": "Cassiano",
+        "FirstName": "Carlos",
+        "Surname": "Dias",
         "PlayDesc": "Info desc",
-        "MaxGold": "532",
-        "Team": "Red"
+        "MaxGold": "40",
+        "Team": "Yellow"
     },
     {
         "UserID": "3",
-        "FirstName": "Leonardo",
-        "Surname": "Cassiano",
+        "FirstName": "Jow",
+        "Surname": "dos Reis",
         "PlayDesc": "Info desc",
-        "MaxGold": "532",
-        "Team": "Red"
+        "MaxGold": "10",
+        "Team": "Black"
     }
 ]
 }
