@@ -1,0 +1,36 @@
+{
+    "UserInfo": [
+    {
+        "UserID": "0",
+        "FirstName": "Leonardo",
+        "Surname": "Cassiano",
+        "PlayDesc": "Info desc",
+        "MaxGold": "532",
+        "Team": "Red"
+    },
+    {
+        "UserID": "0",
+        "FirstName": "Leonardo",
+        "Surname": "Cassiano",
+        "PlayDesc": "Info desc",
+        "MaxGold": "532",
+        "Team": "Red"
+    },
+    {
+        "UserID": "0",
+        "FirstName": "Leonardo",
+        "Surname": "Cassiano",
+        "PlayDesc": "Info desc",
+        "MaxGold": "532",
+        "Team": "Red"
+    },
+    {
+        "UserID": "0",
+        "FirstName": "Leonardo",
+        "Surname": "Cassiano",
+        "PlayDesc": "Info desc",
+        "MaxGold": "532",
+        "Team": "Red"
+    }
+]
+}
