@@ -1,8 +1,1 @@
-{
-    "script":
-    [
-        {
-            "PISO": "PORCELANATO"
-        }
-    ]
-}
+{ "script": [{ "PISO": "CONCRETO" }]}
